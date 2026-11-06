@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Андрей
 
-<!--
-**vesker034/vesker034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю интерфейсы, которые помогают людям разбираться в сложных данных и принимать решения.
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### О!знаю · Ostrovok Hackathon 2026
+
+Командный сервис подбора отелей по пожеланиям на обычном языке. Для каждого условия он показывает, подходит ли отель, что ещё нужно уточнить и на каких данных основан ответ.
+
+**Мой вклад:** интерфейс гостя, отельера и команды на React и Vite; поиск и карта отелей, карточка с источниками фактов, ответы отельера, обзор покрытия данных и имитация оформления. Подключил экраны к API, адаптировал их для телефона и проверил работу с Docker.
+
+**Стек:** React, Vite, Leaflet, JavaScript, CSS, REST API.
+
+[Моя копия проекта](https://github.com/vesker034/oznayu-ostrovok-hackathon) · [Исходный командный репозиторий](https://github.com/clavasyp/oznayu-ostrovok-hackathon)
